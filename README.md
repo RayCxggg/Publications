@@ -4,7 +4,7 @@ This repository contains PDF version of our published research.
 
 ## Reference
 
-It you are interested in using our works for academic research, please cite the papers:
+If you are interested in using our works for academic research, please cite the papers:
 
 ```
 @article{che2024blueswat,
